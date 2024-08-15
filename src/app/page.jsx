@@ -12,7 +12,7 @@ export default function Home() {
                 </h1>
                 <p className="mb-6 text-left font-normal">
                     Our API pricing is based on the model used and the number of
-                    tokens processed. Here's a breakdown of the costs:
+                    tokens processed. Here&apos;s a breakdown of the costs:
                 </p>
                 <div className="overflow-x-auto rounded-xl border border-gray-700">
                     <table className="table-auto w-full border-collapse border rounded-md border-gray-700">
